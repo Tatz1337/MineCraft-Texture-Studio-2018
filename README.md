@@ -1,7 +1,16 @@
-# MineCraft Texture Studio 2022 (WIP - Not Yet Changed)
-Forked from MeicooSoft/MineCraft-Texture-Studio-2018. Project seems to be dead so I'll be attempting to pick up where they left off.
 
-Features:
+# Minecraft Texture Studio 2022
+
+Software to edit Minecraft textures and view them in 3D simultaneously. 
+
+
+
+
+## Acknowledgements
+
+ - [MeicooSoft](https://github.com/Tatz1337/MineCraft-Texture-Studio-2018) (For Original Project)
+
+## Features
 
 - Save your resource pack for easy distribution
 - Save your resource pack directly into your minecraft folder
@@ -15,3 +24,7 @@ Features:
 - Format your resource pack's name with colour, bold, italic, strikethrough or underline
 - Change the textures used by items
 - Support for HD textures
+
+
+![Logo](mts2022.png)
+
