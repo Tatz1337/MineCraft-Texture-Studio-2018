@@ -26,6 +26,6 @@ Software to edit Minecraft textures and view them in 3D simultaneously.
 - Change the textures used by items
 - Support for HD textures
 
-
-
+## Bugs / Flaws
+- Can't add in new blocks currently, due to an issue with the "addblocks" function in the code. Workin on it. 
 
