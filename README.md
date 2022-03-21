@@ -1,12 +1,5 @@
-# MineCraft-Texture-Studio-2018
-For Minecraft Version 1.11/1.12
-
-Minecraft Texture Studio 2018: https://sourceforge.net/projects/minecraft-texture-studio-2018/
-
-
-Based on Minecraft Texture Studio Version 1.0.8
-
-Minecraft Texture Studio Version 1.0.8: https://sourceforge.net/projects/minecrafttexturestudio/
+# MineCraft Texture Studio 2022 (WIP - Not Yet Changed)
+Forked from MeicooSoft/MineCraft-Texture-Studio-2018. Project seems to be dead so I'll be attempting to pick up where they left off.
 
 Features:
 
