@@ -1,5 +1,5 @@
 
-# Minecraft Texture Studio 2022
+![Logo](mts2022.png)
 
 Software to edit Minecraft textures and view them in 3D simultaneously. 
 
@@ -26,5 +26,5 @@ Software to edit Minecraft textures and view them in 3D simultaneously.
 - Support for HD textures
 
 
-![Logo](mts2022.png)
+
 
