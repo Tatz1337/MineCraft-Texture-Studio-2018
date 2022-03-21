@@ -9,6 +9,7 @@ Software to edit Minecraft textures and view them in 3D simultaneously.
 ## Acknowledgements
 
  - [MeicooSoft](https://github.com/Tatz1337/MineCraft-Texture-Studio-2018) (For Original Project)
+ - [TextCraft](https://textcraft.net/) (For logo)
 
 ## Features
 
